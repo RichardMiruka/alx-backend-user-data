@@ -3,6 +3,8 @@
 > Back-end
 > Authentification
 
+![image](https://github.com/RichardMiruka/alx-backend-user-data/assets/105627752/5d41e216-7c06-4b3f-bd4d-1261afeaa566)
+
 ## Resources 
 
 * [What Is PII, non-PII, and Personal Data?](https://intranet.alxswe.com/rltoken/jf71oYqiETchcVhPzQVnyg)
