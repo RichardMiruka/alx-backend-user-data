@@ -15,3 +15,11 @@
 * How to get and set cookies
 * How to retrieve request form data
 * How to return various HTTP status codes
+
+## Setup
+
+You will need to install [bcrypt](https://www.npmjs.com/package/bcrypt)
+
+```
+pip3 install bcrypt
+```
