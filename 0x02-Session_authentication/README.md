@@ -1,5 +1,8 @@
 # Session authentication
 
+> Back-end
+> Authentification
+
 ## Resources
 
 * [REST API Authentication Mechanisms - Only the session auth part](https://intranet.alxswe.com/rltoken/oofk0VhuS0ZFZTNTVrQeaQ)
