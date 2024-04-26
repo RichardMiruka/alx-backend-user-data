@@ -3,6 +3,8 @@
 > Back-end
 > Authentification
 
+![image](https://github.com/RichardMiruka/alx-backend-user-data/assets/105627752/ca446409-94ab-4f2a-b7ed-a9020fceeea4)
+
 ## Resources 
 
 * [Flask documentation](https://intranet.alxswe.com/rltoken/lKExyvivrrW4eh0eI8UV6A)
